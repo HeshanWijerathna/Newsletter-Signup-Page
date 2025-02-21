@@ -1,4 +1,4 @@
-# 📌 Node.js Project
+# 📌 Newsletter Signup Project
 
 This is a Node.js application that integrates with the Mailchimp API to handle user signups. Follow the instructions below to set up and run the project on your local machine.
 
@@ -25,7 +25,6 @@ npm install
    MAILCHIMP_SERVER_PREFIX=your-server-prefix-here
    MAILCHIMP_LIST_ID=your-list-id-here
    MAILCHIMP_ANY_STRING=any-string-here
-   PORT=3000
    ```
 3. **Do not share your `.env` file publicly!**
 
